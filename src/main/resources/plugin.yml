@@ -1,0 +1,4 @@
+name: VanillaPlus-Pack
+version: '${project.version}'
+main: net.vanillaplus.vanillapluspack.VanillaPlus_Pack
+api-version: 1.19
